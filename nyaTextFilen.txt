@@ -1,2 +1,6 @@
 dsbfjsdfjdsbfjis
+<<<<<<< HEAD
 fhdjfbdsjfjsfdsfs
+=======
+fhdjfbdsjfjs
+>>>>>>> 0fac2d3deac2fd8212afb0e94b6bb1e91918d413
